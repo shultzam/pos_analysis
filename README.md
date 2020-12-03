@@ -9,8 +9,6 @@
    * See: https://www.nltk.org/install.html and https://www.nltk.org/data.html
    * API: https://www.nltk.org/api/nltk.corpus.html
    * I installed the data with command: 'sudo python -m nltk.downloader -d /usr/local/share/nltk_data all'
-4. Matplotlib
-   * If planning on creating any of the plots.
    
 ## Importing/Installing Modules
 1. Install Python3
